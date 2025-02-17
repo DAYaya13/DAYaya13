@@ -1,4 +1,4 @@
-<img src="[URL_DE_LA_IMAGEN](https://github.com/DAYaya13/YadiraDom/blob/main/Banner%20para%20Linkedin%20Community%20Manager%20Simple%20Blanco.png?raw=true)" alt="Encabezado" width="100%" />
+<img src="https://github.com/DAYaya13/YadiraDom/blob/main/Banner%20para%20Linkedin%20Community%20Manager%20Simple%20Blanco.png?raw=true" alt="Encabezado" width="100%" />
 
 ## About Me
 
