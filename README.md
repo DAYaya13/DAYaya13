@@ -29,7 +29,9 @@ Computer Systems Engineer with over 10 years of experience in HSE (Health, Safet
 
 ---
 
-### Certificaciones: Normas ISO, Protocolos de Seguridad, Redacción Técnica, Lengua Inglesa
+### Certifications
+
+Normas ISO, Protocolos de Seguridad, Redacción Técnica, Lengua Inglesa
 
 ## 🌎 Connect with Me
 
