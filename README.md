@@ -1,5 +1,5 @@
-<img src="https://github.com/DAYaya13/YadiraDom/blob/main/Banner%20para%20Linkedin%20Community%20Manager%20Simple%20Blanco.png?raw=true" alt="Encabezado" width="100%" />
-Profile LinkedIn Banner.png
+<img src="https://github.com/DAYaya13/YadiraDom/blob/main/Profile LinkedIn Banner.png" alt="Encabezado" width="100%" />
+
 ## About Me
 
 Ingeniera en Sistemas Computacionales con más de 23 años de experiencia en roles de HSE (Seguridad, Salud y Medio Ambiente), combinando conocimientos técnicos con habilidades avanzadas en análisis de datos. Especialista en el uso de herramientas como Excel, Python, Pandas y SQL para el análisis estadístico y la visualización de datos. Certificada como Auditora Interna en normas ISO. Egresada de un Boot Camp especializado en Análisis de Datos y con una especialidad en Lengua Inglesa. Mi perfil integra experiencia técnica, pensamiento analítico, comunicación efectiva y capacidad para liderar equipos multidisciplinarios. Busco aplicar mis conocimientos para optimizar procesos, gestionar riesgos e impulsar la toma de decisiones estratégicas basadas en datos.
