@@ -2,7 +2,11 @@
 
 ## About Me
 
-Ingeniera en Sistemas Computacionales con más de 23 años de experiencia en roles de HSE (Seguridad, Salud y Medio Ambiente), combinando conocimientos técnicos con habilidades avanzadas en análisis de datos. Especialista en el uso de herramientas como Excel, Python, Pandas y SQL para el análisis estadístico y la visualización de datos. Certificada como Auditora Interna en normas ISO. Egresada de un Boot Camp especializado en Análisis de Datos y con una especialidad en Lengua Inglesa. Mi perfil integra experiencia técnica, pensamiento analítico, comunicación efectiva y capacidad para liderar equipos multidisciplinarios. Busco aplicar mis conocimientos para optimizar procesos, gestionar riesgos e impulsar la toma de decisiones estratégicas basadas en datos.
+Ingeniera en Sistemas Computacionales con más de 23 años de experiencia en roles de HSE (Seguridad, Salud y Medio Ambiente), combinando conocimientos técnicos con habilidades avanzadas en análisis de datos. Especialista en el uso de herramientas como Excel, Python, Pandas y SQL para el análisis estadístico y la visualización de datos. Certificada como Auditora Interna en normas ISO. Egresada de un Boot Camp especializado en Análisis de Datos y con una especialidad en Lengua Inglesa.
+
+Mi perfil integra experiencia técnica, pensamiento analítico, comunicación efectiva y capacidad para liderar equipos multidisciplinarios. Además, cuento con una sólida trayectoria como training coach, diseñando e impartiendo programas de formación enfocados en la gestión del riesgo, liderazgo operativo y transformación digital en entornos laborales. Me apasiona compartir el conocimiento, impulsar el desarrollo de talento y acompañar procesos de cambio en personas y organizaciones.
+
+Busco aplicar mis conocimientos para optimizar procesos, gestionar riesgos e impulsar la toma de decisiones estratégicas basadas en datos.
 
 ### Ingeniera Analista de Información | Consultora en Gestión de Riesgos | Data Analyst
 
