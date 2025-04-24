@@ -6,8 +6,8 @@ Ingeniera en Sistemas Computacionales con más de 23 años de experiencia en rol
 
 ### Ingeniera Analista de Información | Consultora en Gestión de Riesgos | Data Analyst
 
-💡 Apasionada por la tecnología, la seguridad industrial y la inteligencia de datos.  
-💻 Desarrollando soluciones innovadoras para análisis de información y gestión de riesgos.  
+💡 Apasionada por la Tecnología, la Seguridad Industrial y la Inteligencia de Datos.  
+💻 Desarrollando soluciones innovadoras para Análisis de Información y Gestión de Riesgos.  
 🌎 Buscando oportunidades de trabajo remoto con impacto global.  
 
 ---
