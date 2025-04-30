@@ -34,7 +34,7 @@ Especialidad en Idioma Inglés;
 Auditor Interno Certificado: ISO;
 Certificado de Competencia Laboral- Impartición de Cursos
 
-## 🌎 Connect with Me
+## 🌎 Conecta Conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yadira-domínguez-p">
