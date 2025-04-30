@@ -1,6 +1,6 @@
 <img src="https://github.com/DAYaya13/YadiraDom/blob/main/Profile LinkedIn Banner.png" alt="Encabezado" width="100%" />
 
-## About Me
+## Acerca de Mí
 
 Data Analyst con formación en Ingeniería en Sistemas Computacionales y más de 23 años de experiencia profesional, combinando análisis de datos, consultoría industrial y formación especializada. Mi trayectoria incluye más de una década en roles de HSE (Seguridad, Salud y Medio Ambiente), donde desarrollé una visión profunda de los procesos operativos, la gestión de riesgos y el factor humano.
 
@@ -13,7 +13,7 @@ Además, cuento con una sólida experiencia como capacitadora en temas técnicos
 🌎 Buscando oportunidades de trabajo remoto con impacto global.  
 
 ---
-## 🚀 Skills & Tech Stack
+## 🚀 Habilidades Técnicas y Herramientas
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -26,9 +26,13 @@ Además, cuento con una sólida experiencia como capacitadora en temas técnicos
 
 ---
 
-### Certifications
+### Formación
 
-Normas ISO, Protocolos de Seguridad, Redacción Técnica, Lengua Inglesa
+Ingeniero en Sistemas Computacionales
+Data Analyst, Tripleten 
+Especialidad en Idioma Inglés
+Auditor Interno Certificado: ISO 9001:2015, ISO 14001:2015, OHSAS 18001:2007 – Lloyd’s Register LRQA
+Certificado de Competencia Laboral – CONOCER (NUGCH001.01) – Impartición de Cursos
 
 ## 🌎 Connect with Me
 
