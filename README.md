@@ -28,11 +28,11 @@ Además, cuento con una sólida experiencia como capacitadora en temas técnicos
 
 ### Formación
 
-Ingeniero en Sistemas Computacionales
-Data Analyst, Tripleten 
-Especialidad en Idioma Inglés
-Auditor Interno Certificado: ISO 9001:2015, ISO 14001:2015, OHSAS 18001:2007 – Lloyd’s Register LRQA
-Certificado de Competencia Laboral – CONOCER (NUGCH001.01) – Impartición de Cursos
+Ingeniero en Sistemas Computacionales;
+Data Analyst, Tripleten;
+Especialidad en Idioma Inglés;
+Auditor Interno Certificado: ISO;
+Certificado de Competencia Laboral- Impartición de Cursos
 
 ## 🌎 Connect with Me
 
