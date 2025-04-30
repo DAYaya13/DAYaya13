@@ -2,15 +2,13 @@
 
 ## About Me
 
-Ingeniera en Sistemas Computacionales con más de 23 años de experiencia en roles de HSE (Seguridad, Salud y Medio Ambiente), combinando conocimientos técnicos con habilidades avanzadas en análisis de datos. Especialista en el uso de herramientas como Excel, Python, Pandas y SQL para el análisis estadístico y la visualización de datos. Certificada como Auditora Interna en normas ISO. Egresada de un Boot Camp especializado en Análisis de Datos y con una especialidad en Lengua Inglesa.
+Data Analyst con formación en Ingeniería en Sistemas Computacionales y más de 23 años de experiencia profesional, combinando análisis de datos, consultoría industrial y formación especializada. Mi trayectoria incluye más de una década en roles de HSE (Seguridad, Salud y Medio Ambiente), donde desarrollé una visión profunda de los procesos operativos, la gestión de riesgos y el factor humano.
 
-Mi perfil integra experiencia técnica, pensamiento analítico, comunicación efectiva y capacidad para liderar equipos multidisciplinarios. Además, cuento con una sólida trayectoria como training coach, diseñando e impartiendo programas de formación enfocados en la gestión del riesgo, liderazgo operativo y transformación digital en entornos laborales. Me apasiona compartir el conocimiento, impulsar el desarrollo de talento y acompañar procesos de cambio en personas y organizaciones.
+Ese recorrido en campo fue clave para construir un enfoque analítico conectado con la realidad operativa. Hoy, como Analista de Datos, aplico herramientas como Python (Pandas, NumPy, Matplotlib), SQL y Excel avanzado para proyectos de visualización, análisis predictivo y toma de decisiones basada en evidencia. Finalicé un Boot Camp en Data Analytics y sigo actualizándome para mantenerme al día con las tecnologías más relevantes del sector.
 
-Busco aplicar mis conocimientos para optimizar procesos, gestionar riesgos e impulsar la toma de decisiones estratégicas basadas en datos.
+Además, cuento con una sólida experiencia como capacitadora en temas técnicos, normativos y de gestión de riesgos, lo que me permite traducir información compleja en aprendizajes accesibles y prácticos para equipos multidisciplinarios. Abierta a proyectos remotos, consultoría técnica y formación especializada.
 
-### Ingeniera Analista de Información | Consultora en Gestión de Riesgos | Data Analyst
-
-💡 Apasionada por la Tecnología, la Seguridad Industrial y la Inteligencia de Datos.  
+💡 Apasionada por la Tecnología. 
 💻 Desarrollando soluciones innovadoras para Análisis de Información y Gestión de Riesgos.  
 🌎 Buscando oportunidades de trabajo remoto con impacto global.  
 
