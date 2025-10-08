@@ -1,16 +1,20 @@
 <img src="https://github.com/DAYaya13/YadiraDom/blob/main/Profile LinkedIn Banner.png" alt="Encabezado" width="100%" />
 
-## Acerca de Mí
+**👩‍💻 Acerca de Mí**
 
-Data Analyst con formación en Ingeniería en Sistemas Computacionales y más de 23 años de experiencia profesional, combinando análisis de datos, consultoría industrial y formación especializada. Mi trayectoria incluye más de una década en roles de HSE (Seguridad, Salud y Medio Ambiente), donde desarrollé una visión profunda de los procesos operativos, la gestión de riesgos y el factor humano.
+Soy Consultora Freelance y Analista de Datos con formación en Ingeniería en Sistemas Computacionales y más de 23 años de experiencia profesional, integrando análisis de datos, consultoría industrial y capacitación técnica.
 
-Ese recorrido en campo fue clave para construir un enfoque analítico conectado con la realidad operativa. Hoy, como Analista de Datos, aplico herramientas como Python (Pandas, NumPy, Matplotlib), SQL y Excel avanzado para proyectos de visualización, análisis predictivo y toma de decisiones basada en evidencia. Finalicé un Boot Camp en Data Analytics y sigo actualizándome para mantenerme al día con las tecnologías más relevantes del sector.
+Cuento con una sólida trayectoria en Seguridad, Salud y Medio Ambiente (HSE), que me ha permitido comprender los procesos operativos, la gestión de riesgos y el factor humano en entornos industriales.
+Ese recorrido en campo fortaleció mi enfoque analítico conectado con la realidad operativa, combinando tecnología y experiencia práctica.
 
-Además, cuento con una sólida experiencia como capacitadora en temas técnicos, normativos y de gestión de riesgos, lo que me permite traducir información compleja en aprendizajes accesibles y prácticos para equipos multidisciplinarios. Abierta a proyectos remotos, consultoría técnica y formación especializada.
+Como Data Analyst, aplico herramientas como Python (Pandas, NumPy, Matplotlib), SQL y Power BI / Excel avanzado para proyectos de visualización, análisis predictivo y toma de decisiones basada en datos.
+Tengo una especialización en Data Analytics y me mantengo en constante actualización sobre tecnologías emergentes e inteligencia artificial aplicada.
 
-💡 Apasionada por la Tecnología. 
-💻 Desarrollando soluciones innovadoras para Análisis de Información y Gestión de Riesgos.  
-🌎 Buscando oportunidades de trabajo remoto con impacto global.  
+También imparto capacitaciones, webinars y programas en línea sobre analítica, seguridad industrial y transformación digital, ayudando a equipos multidisciplinarios a traducir la información en conocimiento útil.
+
+💡 Apasionada por la tecnología y el aprendizaje continuo.
+💻 Desarrollando soluciones innovadoras para el análisis de información y la gestión de riesgos.
+🌎 Abierta exclusivamente a proyectos y colaboraciones remotas con impacto global.
 
 ---
 ## 🚀 Habilidades Técnicas y Herramientas
@@ -37,7 +41,7 @@ Certificado de Competencia Laboral- Impartición de Cursos
 ## 🌎 Conecta Conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yadira-domínguez-p">
+  <a href="https://www.linkedin.com/in/yaya-dominguez-p">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
