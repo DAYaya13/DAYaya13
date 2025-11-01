@@ -1,4 +1,4 @@
-<img src="https://github.com/DAYaya13/YadiraDom/blob/main/Profile LinkedIn Banner.png" alt="Encabezado" width="100%" />
+<img src="https://github.com/DAYaya13/YadiraDom/blob/main/Personal_Linkedin Fondo (1584 x 300 px).png" alt="Encabezado" width="100%" />
 
 **👩‍💻 Acerca de Mí**
 
