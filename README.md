@@ -1,47 +1,72 @@
-<img src="https://github.com/DAYaya13/YadiraDom/blob/main/Personal_Linkedin Fondo (1584 x 300 px).png" alt="Encabezado" width="100%" />
+<img src="https://raw.githubusercontent.com/DAYaya13/YadiraDom/main/Personal_Linkedin%20Fondo%20(1584%20x%20300%20px).png" alt="Yadira Domínguez — IA aplicada, automatización y datos" width="100%" />
 
-**👩‍💻 Acerca de Mí**
+## Hola, soy Yaya 👋
 
-Soy Consultora Freelance y Analista de Datos con formación en Ingeniería en Sistemas Computacionales y más de 23 años de experiencia profesional, integrando análisis de datos, consultoría industrial y capacitación técnica.
+**Facilitadora en IA aplicada · Automatización con n8n y Python · Análisis de datos**
 
-Cuento con una sólida trayectoria en Seguridad, Salud y Medio Ambiente (HSE), que me ha permitido comprender los procesos operativos, la gestión de riesgos y el factor humano en entornos industriales.
-Ese recorrido en campo fortaleció mi enfoque analítico conectado con la realidad operativa, combinando tecnología y experiencia práctica.
+Ingeniera en Sistemas Computacionales con 23 años de trayectoria. Hoy me dedico a dos cosas que se alimentan entre sí: **enseñar** inteligencia artificial y automatización a equipos de trabajo, y **construir** las soluciones que después explico en el aula.
 
-Como Data Analyst, aplico herramientas como Python (Pandas, NumPy, Matplotlib), SQL y Power BI / Excel avanzado para proyectos de visualización, análisis predictivo y toma de decisiones basada en datos.
-Tengo una especialización en Data Analytics y me mantengo en constante actualización sobre tecnologías emergentes e inteligencia artificial aplicada.
+Imparto formación para academias y consultoras en IA aplicada al puesto de trabajo, automatización de procesos y Power BI. En paralelo desarrollo automatizaciones a medida: flujos que conectan sistemas, extracción de datos desde documentos y tableros que convierten información dispersa en decisiones.
 
-También imparto capacitaciones, webinars y programas en línea sobre analítica, seguridad industrial y transformación digital, ayudando a equipos multidisciplinarios a traducir la información en conocimiento útil.
+Mi recorrido previo en Seguridad, Salud y Medio Ambiente me dejó algo que sigo usando todos los días: entender cómo opera de verdad una organización antes de proponerle tecnología.
 
-💡 Apasionada por la tecnología y el aprendizaje continuo.
-💻 Desarrollando soluciones innovadoras para el análisis de información y la gestión de riesgos.
-🌎 Abierta exclusivamente a proyectos y colaboraciones remotas con impacto global.
+Fundadora de **Mentora 360®**, donde trabajo la transformación digital sin complicaciones.
+
+🌎 Disponible exclusivamente para proyectos y colaboraciones **remotas**.
 
 ---
-## 🚀 Habilidades Técnicas y Herramientas
+
+## 🛠️ Lo que construyo
+
+**Automatización de procesos**
+Flujos en n8n que conectan correo, bases de datos y APIs para eliminar la captura manual. Desde formularios que generan documentos hasta bots que responden con información propia de la empresa.
+
+**Extracción de datos desde documentos**
+Scripts en Python que leen PDF e imágenes y los convierten en datos estructurados, señalando siempre qué campos requieren revisión humana en lugar de rellenar huecos por su cuenta.
+
+**Tableros y análisis**
+Power BI, Excel avanzado y Python para transformar datos operativos en información que se puede usar.
+
+---
+
+## 🚀 Herramientas
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/AutoCAD-E41B17?style=for-the-badge&logo=autodesk&logoColor=white" />  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### Formación
+## 🎓 Formación
 
-Ingeniero en Sistemas Computacionales;
-Data Analyst, Tripleten;
-Especialidad en Idioma Inglés;
-Auditor Interno Certificado: ISO;
-Certificado de Competencia Laboral- Impartición de Cursos
+- Ingeniería en Sistemas Computacionales
+- Data Analyst — TripleTen
+- Estándar de Competencia: Impartición de cursos de formación del capital humano
+- Auditor Interno ISO
+- Agente Capacitador Externo registrado ante la STPS
+- Especialidad en Idioma Inglés
 
-## 🌎 Conecta Conmigo
+---
+
+## 🤝 Trabajemos juntos
+
+Si tu equipo necesita **aprender** a usar IA en el día a día, o si tienes un **proceso manual** que se puede automatizar, con gusto lo platicamos.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yaya-dominguez-p">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:info@360-mentora.com">
+    <img src="https://img.shields.io/badge/Correo-15243F?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
 </p>
