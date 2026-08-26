@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/DAYaya13/YadiraDom/main/Personal_Linkedin%20Fondo%20(1584%20x%20300%20px).png" alt="Yadira Domínguez — IA aplicada, automatización y datos" width="100%" />
-
 ## Hola, soy Yaya 👋
 
 **Facilitadora en IA aplicada · Automatización con n8n y Python · Análisis de datos**
